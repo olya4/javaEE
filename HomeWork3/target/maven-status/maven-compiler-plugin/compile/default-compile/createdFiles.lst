@@ -1,0 +1,7 @@
+ru\geekbrains\service\ProductService.class
+ru\geekbrains\entity\Product$ProductBuilder.class
+ru\geekbrains\config\HelloConfiguration.class
+ru\geekbrains\config\WebConfig.class
+ru\geekbrains\repository\ProductRepository.class
+ru\geekbrains\controller\ProductController.class
+ru\geekbrains\entity\Product.class
