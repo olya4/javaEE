@@ -1,0 +1,26 @@
+spring.mvc.view:
+  suffix: '.jsp'
+  prefix: '/WEB-INF/view/'
+
+all:
+  products:
+  - product:
+    id: 0
+    title: 'Apple'
+    cost: 100.0
+  - product:
+    id: 1
+    title: 'Banana'
+    cost: 150.0
+  - product:
+    id: 2
+    title: 'Chocolate'
+    cost: 410.0
+  - product:
+    id: 3
+    title: 'Peach'
+    cost: 245.0
+  - product:
+    id: 4
+    title: 'Orange'
+    cost: 200.0
