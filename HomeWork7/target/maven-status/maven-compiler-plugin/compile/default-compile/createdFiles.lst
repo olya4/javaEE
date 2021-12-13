@@ -1,0 +1,12 @@
+ru\gb\dao\ProductDao.class
+ru\gb\entity\Buyer.class
+ru\gb\config\JpaConfig.class
+ru\gb\entity\Roster.class
+ru\gb\entity\Product.class
+ru\gb\dao\RosterDao.class
+ru\gb\entity\Roster$RosterBuilder.class
+ru\gb\App.class
+ru\gb\entity\Buyer$BuyerBuilder.class
+ru\gb\entity\Product$ProductBuilder.class
+ru\gb\dao\BuyerDao.class
+ru\gb\service\RosterService.class
